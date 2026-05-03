@@ -1,4 +1,5 @@
-#Decisiontrees&RandomForests
+#Decision trees & Random Forests
+
 This project aims to assess whether a borrower will be able to pay off a full loan amount depending on credit history such as FICO scores and reasons for borrowing money.
 
 1. Comparison of models  
